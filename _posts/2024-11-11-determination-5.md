@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is it possible to find contentment without ambition?"
+title: "Is contentment a form of resignation in low-resource settings?"
 category: [self-determination-ambition and survival, ambition vs. contentment]
 tags: [ambition, contentment, purpose, worth]
 ---

@@ -4,7 +4,7 @@ A collection of the questions that keep me awake - those I wrestle with daily, s
 
 If you feel you have insights or reflections to offer, please leave a comment. Each question here is an invitation to think, to explore what may not have clear answers, but perhaps greater meaning.
 
-## License
+# License
 
 This work is published under [MIT][mit] License.
 
